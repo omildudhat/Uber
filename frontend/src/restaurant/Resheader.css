@@ -1,0 +1,11 @@
+.res_header {
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:35px
+}
+.resh_logo{
+    height:24px;
+    width: 146px;
+    margin-left: 40px !important;
+}
